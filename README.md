@@ -21,7 +21,3 @@ Imagine a world where images speak for themselves, where every photograph or art
 
 📧 Contact
 For any questions or inquiries, feel free to reach out to vanshika.gurbani25@gmail.com
-🙌 Acknowledgments
-A heartfelt thank you to the exceptional developers of the libraries and datasets that made this project possible, including TensorFlow, PyTorch, and MS COCO.
-🌟 Join the Journey
-Let's embark on this exciting journey together, exploring the magic of deep learning and building a system that truly understands and describes images.
